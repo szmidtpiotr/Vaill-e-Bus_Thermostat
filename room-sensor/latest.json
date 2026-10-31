@@ -1,9 +1,9 @@
 {
  "component": "room-sensor",
- "version": "0.3.0",
- "file": "room-sensor-0.3.0.bin",
- "size": 1133456,
- "sha256": "9fb3efb1822de7b7db28547bc20c942c3e2f515e434d62411d03d416e5a7dd92",
- "signature_ecdsa_p256_sha256_der_b64": "MEYCIQDCLUa3ZmxiIYpDbZ38bjwz8q6loqnjb5Y4MLZmB8Cq7QIhAMIXsEdKwdTxtfwSKqboOkAK+j2PBKEmXXyaHp5XJJHG",
- "url": "https://github.com/szmidtpiotr/Vaill-e-Bus_Thermostat/releases/download/room-sensor-v0.3.0/room-sensor-0.3.0.bin"
+ "version": "0.3.1",
+ "file": "room-sensor-0.3.1.bin",
+ "size": 1133584,
+ "sha256": "87bf3e5883db41d97e50fc1af379205fd2371b21d0a6d5d7a3c88ab650d50b0f",
+ "signature_ecdsa_p256_sha256_der_b64": "MEQCIEVMkvkA6rznnRzWQ9wmU3lROtmEeS8O00Nkm3HvR+p1AiAAo/smMys4kTcIeaXhuLiDdf1j9eu/mLRSGkrH951Z/w==",
+ "url": "https://github.com/szmidtpiotr/Vaill-e-Bus_Thermostat/releases/download/room-sensor-v0.3.1/room-sensor-0.3.1.bin"
 }
