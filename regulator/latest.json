@@ -1,0 +1,9 @@
+{
+ "component": "regulator",
+ "version": "0.1.0",
+ "file": "regulator-0.1.0.bin",
+ "size": 1284992,
+ "sha256": "3d47fa984facacf70691f55c0b71b54e28580d8c016ad605aa7c2e533f0b4ee8",
+ "signature_ecdsa_p256_sha256_der_b64": "MEQCIBP0eCcerT58u7V8VXZNatfbDCcYpYXDIQpB/ifW1Wz3AiAOGWhzsTXZcGcDpYG3eRAkWqN/wMIdO38lYRrHMG9aIQ==",
+ "url": "https://github.com/szmidtpiotr/Vaill-e-Bus_Thermostat/releases/download/regulator-v0.1.0/regulator-0.1.0.bin"
+}
