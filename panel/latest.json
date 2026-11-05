@@ -1,0 +1,9 @@
+{
+ "component": "panel",
+ "version": "0.8.0",
+ "file": "panel-0.8.0.bin",
+ "size": 1174848,
+ "sha256": "c088580ca164224738305393b6cb5692706e6441c386763bfd8ea5c27f696dca",
+ "signature_ecdsa_p256_sha256_der_b64": "MEYCIQDPr8xyt63z54LX+dSCGVRX8VjNtxzZxOhJYB2bEXsrfwIhAKejuqtUlh91H1MKWv9X8RtxIOBYoM0oYxl/RxOTbmVX",
+ "url": "https://github.com/szmidtpiotr/Vaill-e-Bus_Thermostat/releases/download/panel-v0.8.0/panel-0.8.0.bin"
+}
